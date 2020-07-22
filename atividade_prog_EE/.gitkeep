@@ -1,0 +1,2 @@
+Com base no arquivo estudo.tdms recuperar a senoide e apresentá-la em um gráfico com a escala de tempo correta em milissegundos. 
+Além disso apresentar a fase, amplitude e frequência desse sinal em indicators.
